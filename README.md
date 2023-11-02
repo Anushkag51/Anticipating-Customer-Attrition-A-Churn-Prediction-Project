@@ -9,18 +9,18 @@ The ultimate objective is to increase consumer loyalty and cover more ground. Th
 Because it is far less expensive to keep current customers than to get new ones, customer turnover is an important statistic. Customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers.
 # dataset
 The dataset taken for this project is Bank Customers Data from Kaggle. It contains 10000 rows and 14 columns. Columns are as below:
-RowNumber
-CustomerID
-Surname
-CreditScore
-Geography
-Gender
-Age
-Tenure
-Balance
-NumOfProducts
-HasCrCard
-IsActiveMember
-EstimatedSalary
-Exited
+- RowNumber
+- CustomerID
+- Surname
+- CreditScore
+- Geography
+- Gender
+- Age
+- Tenure
+- Balance
+- NumOfProducts
+- HasCrCard
+- IsActiveMember
+- EstimatedSalary
+-Exited
 
