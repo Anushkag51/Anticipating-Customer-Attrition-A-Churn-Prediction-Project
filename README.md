@@ -22,5 +22,5 @@ The dataset taken for this project is Bank Customers Data from Kaggle. It contai
 - HasCrCard
 - IsActiveMember
 - EstimatedSalary
--Exited
+- Exited
 
